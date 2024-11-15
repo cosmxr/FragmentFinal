@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "160189899254",
+    "firebase_url": "https://pruebafirebase-b8bf5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pruebafirebase-b8bf5",
+    "storage_bucket": "pruebafirebase-b8bf5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160189899254:android:809becbaccd61cbd1fa7d7",
+        "android_client_info": {
+          "package_name": "com.example.fragmentfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjoCrtfTkGDzYPzZpzgBcSiWJ3wRQnWok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160189899254:android:6663e6f2fc25810e1fa7d7",
+        "android_client_info": {
+          "package_name": "com.example.gestionnovelasfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjoCrtfTkGDzYPzZpzgBcSiWJ3wRQnWok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160189899254:android:3231d53f5171cc231fa7d7",
+        "android_client_info": {
+          "package_name": "com.example.novelasfragment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjoCrtfTkGDzYPzZpzgBcSiWJ3wRQnWok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160189899254:android:bdabe080b60a8d8a1fa7d7",
+        "android_client_info": {
+          "package_name": "com.example.novelasfragmentoswidget"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjoCrtfTkGDzYPzZpzgBcSiWJ3wRQnWok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160189899254:android:4fd7ce0722f153461fa7d7",
+        "android_client_info": {
+          "package_name": "com.example.pruebafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjoCrtfTkGDzYPzZpzgBcSiWJ3wRQnWok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
