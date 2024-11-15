@@ -101,4 +101,4 @@ Este proyecto es una aplicación Android que gestiona una lista de novelas. Incl
 
 Los botones para marcar novelas como favoritas están incluidos en el diseño pero no funcionan como se espera. Esto es intencional, ya que el enfoque de la práctica está en la implementación del fragmento y el widget en lugar de la funcionalidad de los botones.
 
-link al repositorio: 
+link al repositorio: https://github.com/cosmxr/FragmentFinal.git
